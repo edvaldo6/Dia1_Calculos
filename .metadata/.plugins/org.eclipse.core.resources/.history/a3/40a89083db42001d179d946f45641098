@@ -1,0 +1,5 @@
+
+public class AprendendoJava {
+
+	System.out.println("Oá Mundo!");
+}
